@@ -1,5 +1,5 @@
-// ./routes/brew.js
-// * The server attempts to brew coffee, but fails, because it is a teapot.
+// ./routes/validate.js
+// * The server attempts to validate transactions.
 
 function validate(app) {
     // (Attempt) to get some coffee

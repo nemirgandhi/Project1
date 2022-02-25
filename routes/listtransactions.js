@@ -1,5 +1,5 @@
-// ./routes/brew.js
-// * The server attempts to brew coffee, but fails, because it is a teapot.
+// ./routes/listtransactions.js
+// * The server attempts to list the transactions.
 
 function listtransactions(app) {
     // (Attempt) to get some coffee

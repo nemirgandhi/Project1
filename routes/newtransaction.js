@@ -1,5 +1,5 @@
-// ./routes/brew.js
-// * The server attempts to brew coffee, but fails, because it is a teapot.
+// ./routes/newtransactions.js
+// * The server attempts to make transactions with blocks.
 
 function newtransactions(app) {
     // (Attempt) to get some coffee

@@ -1,5 +1,5 @@
-// ./routes/brew.js
-// * The server attempts to brew coffee, but fails, because it is a teapot.
+// ./routes/mine.js
+// * The server attempts to mine blocks.
 
 
 
